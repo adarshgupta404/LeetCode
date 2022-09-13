@@ -1,6 +1,6 @@
-/*
-    https://leetcode.com/problems/find-the-duplicate-number/
-*/
+
+Problem Link: https://leetcode.com/problems/find-the-duplicate-number/
+
 class Solution {
 public:
     // TC: O(N), SC: O(1)
@@ -95,8 +95,6 @@ public:
             }
         return duplicate;
     }
-    
-    
     
     int findDuplicate(vector<int>& nums) {
         // return sortingSolution(nums);
