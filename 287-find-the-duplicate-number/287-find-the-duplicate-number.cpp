@@ -1,19 +1,20 @@
 class Solution {
 public:
      int sortingSolution(vector<int>& nums) {
-        // sort the numbers and find the number which has duplicate
-        // by checking the one which has the same at next position
-        sort(nums.begin(), nums.end());
+        int hare = nums[0], tortoise = nums[0];
         
-        int duplicate = 0;
-        for(int i = 0; i < nums.size() - 1; i++)
-            if(nums[i] == nums[i+1]) {
-                duplicate = nums[i];
-                break;
-            }
-        return duplicate;
-    }
-    int findDuplicate(vector<int>& nums) {
-        return sortingSolution(nums);
+        do {
+            hare = nums[nums[hare]];
+            tortoise = nums[tortoise];
+        } while(hare != tortoise);
+        
+        // to find the starting of cycle, make tortoise to start from begining
+        tortoise = nums[0];
+        while(hare != tortoise) {
+            hare = nums[hare];
+            tortoise = nums[tortoise];
+        }
+        
+        return hare;
     }
 };
