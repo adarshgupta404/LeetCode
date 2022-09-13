@@ -1,8 +1,8 @@
 
 Problem Link: https://leetcode.com/problems/find-the-duplicate-number/
 
-class Solution {
-public:
+    class Solution {
+    public:
     // TC: O(N), SC: O(1)
     /*
         Since the numbers are [1:N], so we use the array indices for storing the
@@ -10,6 +10,7 @@ public:
         For each number we goto its index position and multiply by -1. In case
         of duplicate it will be multiplied twice and the number will be +ve.
     */
+    
     int indexSolution(vector<int>& nums) {
         for(int i = 0; i < nums.size(); i++) {
             int index = abs(nums[i]) - 1;
@@ -102,4 +103,4 @@ public:
         //return floydSolution(nums);
         return indexSolution(nums);
     }
-};
+    };
