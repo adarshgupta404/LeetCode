@@ -1,3 +1,4 @@
+//Brute Force
 class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int s) {
@@ -10,6 +11,22 @@ public:
                 if(arr[i]+arr[j]==s)
                    return {i,j};
             }
+        }
+        return {};
+    }
+};
+//hash map
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& arr, int x) {
+        unordered_map<int,int> m;
+        for(int i = 0; i<arr.size();i++)
+        {
+            if(m.find(x-arr[i])!=m.end())
+            {
+                return {m[x-arr[i]],i};
+            }
+            m[arr[i]] = i;
         }
         return {};
     }
