@@ -13,7 +13,7 @@ public:
     }
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-        /*O(n) Approacch
+        /*O(n) space Approacch
         int rot[n];
         int t = n-k;
         int i;
@@ -32,6 +32,7 @@ public:
             nums[m] = rot[m];
         }
     }*/
+        // O(n) time and O(1) space
         if(n<k)
             k = k%n;
         reverse(nums, 0, n-k-1);
