@@ -21,7 +21,7 @@ public:
         int cnt2 = 0;
         int maj1 = 0;
         int maj2 = 0; 
-        for(int n: nums){
+for(int n: nums){
     if (n == maj1) 
     {
         cnt1++;
