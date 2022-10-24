@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> countBits(int n) {
+        
             // n+1 as we are going to count from 0 to n
         vector<int> t(n+1);
         
