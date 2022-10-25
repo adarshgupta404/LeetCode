@@ -14,7 +14,22 @@ public:
         swap(nums[sep+1], nums[r]);
         return sep+1;
     }
-    
+    bool arraySortedOrNot(vector<int> &arr)
+    {
+        int n = arr.size();
+    // Array has one or no element
+    if (n == 0 || n == 1)
+        return true;
+ 
+    for (int i = 1; i < n; i++)
+ 
+        // Unsorted pair found
+        if (arr[i - 1] > arr[i])
+            return false;
+ 
+    // No unsorted pair found
+    return true;
+    }
     void quick_sort(vector<int> &nums, int l, int r){
         if(l>=r) return;
         
@@ -23,7 +38,10 @@ public:
         quick_sort(nums, q+1, r);
     }
     vector<int> sortArray(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        if(arraySortedOrNot(nums))
+            return nums;
+        srand(time(NULL));
+        quick_sort(nums, 0, nums.size()-1);
         return nums;
     }
 };
