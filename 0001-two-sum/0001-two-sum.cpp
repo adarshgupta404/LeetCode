@@ -10,7 +10,6 @@ public:
             }
             s[arr[i]] = i;
         }
-            
         return {};
     }
 };
