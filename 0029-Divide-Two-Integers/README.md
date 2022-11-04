@@ -1,6 +1,6 @@
-#29. Divide Two Integers
-
-#Medium
+<h1>29. Divide Two Integers</h1>
+<hr>
+<h2>Medium</h2>
 
 Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
 
