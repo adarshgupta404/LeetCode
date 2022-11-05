@@ -26,5 +26,5 @@ Output: [[0,0,0]]
 Explanation: The only possible triplet sums up to 0.
  
 Constraints:
-	1. 3 <= nums.length <= 3000
+-	1. 3 <= nums.length <= 3000
 -	2. 105 <= nums[i] <= 105
