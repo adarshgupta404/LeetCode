@@ -59,8 +59,8 @@ Node *reverse(Node* head)
 }
 class Solution
 {
-public:
-Node *compute(Node *head)
+    public:
+    Node *compute(Node *head)
     {
         // your code goes here
         if(head == NULL || head->next == NULL)
@@ -68,9 +68,9 @@ Node *compute(Node *head)
         head = reverse(head);
         Node* temp = head->next, *ptemp = head;
         int max = temp->data;
-    while(temp!=NULL)
-    {
-        while(temp && ptemp->data>temp->data)
+        while(temp!=NULL)
+        {
+            while(temp && ptemp->data>temp->data)
             {
                 Node *t = temp;
                 temp = temp->next;
@@ -81,9 +81,9 @@ Node *compute(Node *head)
                 break;
             ptemp = temp;
             temp = temp->next;
-    }
-    head = reverse(head);
-    return head;
+        }
+        head = reverse(head);
+        return head;
     }
     
 };
