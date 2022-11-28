@@ -33,15 +33,14 @@ public:
                 curr->next->random=curr->random->next;
         }
         
-        Node* original = head, *copy = head->next; 
-        Node *temp = copy; 
-        while (original && copy) 
+        Node* original = head; 
+        Node *temp = head->next; 
+        for(Node* copy = head->next; copy!=NULL && original!=NULL; copy = copy->next) 
         { 
             original->next = 
             original->next? original->next->next : original->next; 
             copy->next = copy->next?copy->next->next:copy->next; 
             original = original->next; 
-            copy = copy->next; 
         } 
         return temp;     
     }
