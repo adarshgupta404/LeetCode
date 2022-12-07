@@ -1,48 +1,58 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
-    int getLengthOfLinkedList(ListNode *head)
-    {
-        ListNode *ptr = head;
-        int cnt=0;
-        while(ptr)
-        {
-            cnt++;
-            ptr=ptr->next;
-        }
-        return cnt;
-    }
 public:
-    ListNode* reverseKGroup(ListNode* head, int k) 
-    {
-        if(!head)
-            return NULL;
-    
-        int len = getLengthOfLinkedList(head);
-        if(len<k)
+int length(ListNode * node){
+    int count=0;
+    while(node){
+        count++;
+        node=node->next;
+    }
+    return count;
+}
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        if(length(head) < k)
             return head;
-        
-        int numberOfGroupsToReverse = len/k;
-        
-        ListNode *dummyNode = new ListNode(-1);
-        dummyNode->next = head;
-        ListNode *start = dummyNode;
-
-        ListNode *pre,*remaining,*next;
-        for(int i=0;i<numberOfGroupsToReverse;i++)
+        ListNode* curr = head,*next = NULL, *prevFirst = NULL;
+        bool isFstPass = true;
+        int numberOfGroupsToReverse = length(head)/k;
+        while(curr!=NULL)
         {
-            pre = NULL;
-            remaining = head;
-            for(int j=0;j<k;j++)
+            ListNode* first = curr, *prev = NULL;
+            int count = 0;
+            while(curr!=NULL && count<k)
             {
-                next = head->next;
-                head->next = pre;
-                pre=head;
-                head=next;
+                next = curr->next;
+                curr->next = prev;
+                prev = curr;
+                curr = next;
+                count++;
             }
-            start->next = pre;
-            remaining->next = head;
-            start = remaining;
+            if(isFstPass)
+            {
+                head = prev;
+                isFstPass = false;
+            }
+            else
+            {
+                prevFirst->next = prev;
+            }
+            prevFirst = first;
+            numberOfGroupsToReverse--;
+            if(numberOfGroupsToReverse==0)
+            {
+                prevFirst->next = next;
+                break;
+            }
         }
-        
-        return dummyNode->next;
+        return head;
     }
 };
