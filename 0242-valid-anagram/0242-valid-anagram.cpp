@@ -1,18 +1,17 @@
 class Solution {
 public:
-    bool isAnagram(string s, string t) {
-        unordered_map<char, int> m;
-        if (s==t) return true;
-        if(s.length()!=t.length())
-            return false;
-        for(int i = 0; i<s.length();i++)
+    bool isAnagram(string a, string b) {
+        if (a==b) return true;
+        if (a.size()!=b.size()) return false;
+        int arr[26] = {};
+        for(int i = 0; i<a.size(); i++)
         {
-            m[s[i]]++;
-            m[t[i]]--;
+            arr[a[i]-'a']++;
+            arr[b[i]-'a']--;
         }
-        for(auto x:m)
+        for(int i = 0; i<26; i++)
         {
-            if(x.second)
+            if(arr[i])
                 return false;
         }
         return true;
