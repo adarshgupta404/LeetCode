@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestCommonSubsequence(string a, string b) {
-        short arr[1000][1000] = {};
+        short arr[2][1000] = {};
         for(int i = 0; i<a.size(); i++)
         {
             for(int j = 0; j<b.size(); j++)
