@@ -19,10 +19,12 @@ public:
         
         for (int j = i + 1; j < n - 1; j++) {
             
-            if (j != i + 1 && nums[j] == nums[j - 1]) continue; // update j to avoid duplicate triplets
+            if (j != i + 1 && nums[j] == nums[j - 1]) continue; 
+            // update j to avoid duplicate triplets
             
             int key = -(nums[i] + nums[j]);
-            if (m.find(key) != m.end() && m[key] > j) // check the index of key > j, so we dont count any duplicate element
+            if (m.find(key) != m.end() && m[key] > j) 
+            // check the index of key > j, so we dont count any duplicate element
                 ans.push_back({nums[i], nums[j], key});
         }
     }
