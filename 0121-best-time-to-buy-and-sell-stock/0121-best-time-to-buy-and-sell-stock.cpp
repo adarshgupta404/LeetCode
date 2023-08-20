@@ -13,7 +13,7 @@ public:
         // return res;
 
         // Optimal Solution
-        int mini = INT_MAX;
+        int mini = 100000;
         int profit = 0;
         int n = prices.size();
         for(int i = 0; i<n-1; i++){
