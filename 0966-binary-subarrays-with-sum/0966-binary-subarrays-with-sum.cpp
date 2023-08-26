@@ -1,29 +1,39 @@
 class Solution {
 public:
-    void kadane(vector<int>& nums, int n){
-        int sum = nums[0];
-        for(int i = 1; i<n; i++){
-            sum += nums[i];
-            nums[i] = sum;
+    int atMost(vector<int>& nums, int goal){
+        int win_st = 0, win_end = 0, res = 0, cnt = 0;
+        if(goal<0)  return 0;
+        for(win_end = 0; win_end<nums.size(); win_end++){
+            cnt += nums[win_end];
+            while(cnt>goal){
+                cnt -= nums[win_st];
+                win_st++;
+            }
+            res += win_end - win_st + 1;
         }
+        return res;
     }
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        int n = nums.size();
-        kadane(nums, n);
-        int count = 0;
-        unordered_map<int, int> m;
-        for(int i = 0; i<n; i++){
-            if(nums[i]==goal)
-                count++;
-            if(m.find(nums[i]-goal)!=m.end()){
-                count += m[nums[i]-goal];
-            }
-            if(m.find(nums[i])!=m.end()){
-                m[nums[i]]++;
-            }
-            else
-                m[nums[i]] = 1;
-        }
-        return count;      
+        // Hash Map Approach O(n) Time and O(n) Space
+        // int n = nums.size();
+        // int sum = 0;
+        // int count = 0;
+        // unordered_map<int, int> m;
+        // for(int i = 0; i<n; i++){
+        //     sum += nums[i];
+        //     if(sum==goal)
+        //         count++;
+        //     if(m.find(sum-goal)!=m.end()){
+        //         count += m[sum-goal];
+        //     }
+        //     if(m.find(sum)!=m.end()){
+        //         m[sum]++;
+        //     }
+        //     else
+        //         m[sum] = 1;
+        // }
+        // return count;  
+        // Sliding Window Approach O(n) Time and O(1) Space
+        return atMost(nums, goal) - atMost(nums, goal - 1);
     }
 };
