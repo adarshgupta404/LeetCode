@@ -1,26 +1,22 @@
 class Solution {
 public:
-    bool matching(char a, char b)
-    {
-        return ((a=='(' && b==')')||(a=='[' && b==']')||(a=='{' && b=='}'));
+    bool isAMatch(char a, char b){
+        return (a=='(' && b==')') || (a=='{' && b=='}') || (a=='[' && b==']');
     }
-        
-    bool isValid(string str) {
-        stack<char> s;
-        for(char c : str)
-        {
-            if(c == '(' || c == '{' || c == '[')
-                s.push(c);
-            else
-            {
-                if(s.empty())
+    bool isValid(string s) {
+        stack<char> st;
+        for (auto& c : s){
+            if(c=='(' || c=='{' || c=='[')
+                st.push(c);
+            else{
+                if(st.empty())
                     return false;
-                if(matching(s.top(),c)==false)
+                if(isAMatch(st.top(), c)==false)
                     return false;
                 else
-                    s.pop();
-            }   
+                    st.pop();
+            }
         }
-        return s.empty()==true;
+        return st.empty()==true;
     }
 };
