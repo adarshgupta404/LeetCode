@@ -11,7 +11,6 @@ public:
             else
                 h = mid;
         }
-        
         int rot = l;
         l = 0, h = n-1;
         while(l<=h)
