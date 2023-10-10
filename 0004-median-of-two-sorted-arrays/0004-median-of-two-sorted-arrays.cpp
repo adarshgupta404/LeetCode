@@ -1,7 +1,8 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& ar1, vector<int>& ar2) {
-      long long i = 0; /* Current index of input array ar1[] */
+    // Time Complexity : O(m+n)
+    long long i = 0; /* Current index of input array ar1[] */
     long long j = 0; /* Current index of input array ar2[] */
     long long count;
     long long m1 = -1, m2 = -1;
@@ -38,6 +39,9 @@ public:
     }
     else{
         return (m1+m2)/2.0;
-    }  
+    } 
+
+    // Time Complexity : O(log(min(m+n))) 
+
     }
 };
