@@ -8,6 +8,10 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+ // Divide the list by half
+ // Reverse the second half
+ // Reorder via while loop condition head and second
+ // if(head && head->next exists) then head->next->next = NULL;
 class Solution {
 public:
     void reorderList(ListNode* head) {
