@@ -13,7 +13,7 @@ public:
         //     secmat.push_back(row);
         // }
         // matrix =  secmat;
-        // Brute force O(n*n) Time and O(1) Space
+        // Optimal Solution O(n*n) Time and O(1) Space
         int m = matrix.size();
         int n = matrix[0].size();
         for(int i = 0; i<m; i++){
