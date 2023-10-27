@@ -42,6 +42,6 @@ public:
             copy->next = copy->next?copy->next->next:copy->next; 
             original = original->next; 
         } 
-        return temp;     
+        return temp;   
     }
 };
