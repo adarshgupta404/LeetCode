@@ -22,7 +22,7 @@ public:
         //     ans.push_back({st, end});
         // }
         // return ans;
-        // Time = O(N*logN) + O(2*N) Space = O(N) Optimal Solution
+        // Time = O(N*logN) + O(N) Space = O(N) Optimal Solution
         int n = intervals.size();
         vector<vector<int>> ans;
         sort(intervals.begin(), intervals.end());
