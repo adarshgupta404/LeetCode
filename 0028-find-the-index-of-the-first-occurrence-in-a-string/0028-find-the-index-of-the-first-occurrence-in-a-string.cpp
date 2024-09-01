@@ -1,19 +1,10 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        int i = 0, j = 0, k = needle.length();
-        if(needle.size()==0)   //no needle to find
-            return 0;
-        while(j<haystack.length())
-        {
-            if(j-i+1<k)
-                j++;
-            else
-            {
-                if(haystack.substr(i, j-i+1)==needle)
-                    return i;
-                i++;
-                j++;
+        int h = haystack.length(), n = needle.length();
+        for (int i = 0; i <= h-n; i++) {
+            if (haystack.substr(i, n) == needle) {
+                return i;
             }
         }
         return -1;
