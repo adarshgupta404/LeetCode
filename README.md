@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshgupta404/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adarshgupta404/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshgupta404/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adarshgupta404/LeetCode/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
@@ -46,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshgupta404/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
