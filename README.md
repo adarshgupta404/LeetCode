@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/adarshgupta404/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Design
 |  |
