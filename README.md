@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
+| [3568-find-the-key-of-the-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
