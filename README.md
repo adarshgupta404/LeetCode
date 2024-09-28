@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshgupta404/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0367-valid-perfect-square](https://github.com/adarshgupta404/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarshgupta404/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1070-convert-to-base-2](https://github.com/adarshgupta404/LeetCode/tree/master/1070-convert-to-base-2) |
 | [3568-find-the-key-of-the-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
@@ -74,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarshgupta404/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/adarshgupta404/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
