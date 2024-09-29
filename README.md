@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshgupta404/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adarshgupta404/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshgupta404/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta404/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarshgupta404/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
