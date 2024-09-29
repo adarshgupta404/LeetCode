@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshgupta404/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adarshgupta404/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/adarshgupta404/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/adarshgupta404/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/adarshgupta404/LeetCode/tree/master/0118-pascals-triangle) |
+| [0283-move-zeroes](https://github.com/adarshgupta404/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
