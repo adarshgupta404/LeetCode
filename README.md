@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta404/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarshgupta404/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/adarshgupta404/LeetCode/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/adarshgupta404/LeetCode/tree/master/1070-convert-to-base-2) |
 | [3568-find-the-key-of-the-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3582-find-indices-of-stable-mountains](https://github.com/adarshgupta404/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -86,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/adarshgupta404/LeetCode/tree/master/1013-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
