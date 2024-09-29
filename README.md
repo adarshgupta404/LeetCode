@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshgupta404/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/adarshgupta404/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adarshgupta404/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/adarshgupta404/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adarshgupta404/LeetCode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/adarshgupta404/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/adarshgupta404/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/adarshgupta404/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
