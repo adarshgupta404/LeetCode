@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adarshgupta404/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adarshgupta404/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
