@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshgupta404/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/adarshgupta404/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/adarshgupta404/LeetCode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/adarshgupta404/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -100,5 +102,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
