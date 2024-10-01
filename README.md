@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/adarshgupta404/LeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/adarshgupta404/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/adarshgupta404/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/adarshgupta404/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adarshgupta404/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adarshgupta404/LeetCode/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/adarshgupta404/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta404/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Recursion
