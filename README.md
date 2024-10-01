@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/adarshgupta404/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adarshgupta404/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adarshgupta404/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/adarshgupta404/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adarshgupta404/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/adarshgupta404/LeetCode/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -138,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta404/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adarshgupta404/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
