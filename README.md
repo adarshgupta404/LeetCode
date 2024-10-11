@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/adarshgupta404/LeetCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/adarshgupta404/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3582-find-indices-of-stable-mountains](https://github.com/adarshgupta404/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Design
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/adarshgupta404/LeetCode/tree/master/0136-single-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarshgupta404/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/adarshgupta404/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adarshgupta404/LeetCode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/adarshgupta404/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
