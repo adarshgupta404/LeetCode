@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta404/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/adarshgupta404/LeetCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/adarshgupta404/LeetCode/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/adarshgupta404/LeetCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/adarshgupta404/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3582-find-indices-of-stable-mountains](https://github.com/adarshgupta404/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/adarshgupta404/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
