@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/adarshgupta404/LeetCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/adarshgupta404/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/adarshgupta404/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3582-find-indices-of-stable-mountains](https://github.com/adarshgupta404/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/adarshgupta404/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/adarshgupta404/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+## Greedy
+|  |
+| ------- |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/adarshgupta404/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 <!---LeetCode Topics End-->
