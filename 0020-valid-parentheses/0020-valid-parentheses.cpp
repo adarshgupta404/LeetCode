@@ -24,6 +24,6 @@ public:
                 }
             }
         }
-        return true;
+        return st.empty();
     }
 };
