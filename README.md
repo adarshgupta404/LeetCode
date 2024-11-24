@@ -176,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshgupta404/LeetCode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/adarshgupta404/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
