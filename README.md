@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/adarshgupta404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshgupta404/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/adarshgupta404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta404/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/adarshgupta404/LeetCode/tree/master/1044-find-common-characters) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/adarshgupta404/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/adarshgupta404/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/adarshgupta404/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta404/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarshgupta404/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/adarshgupta404/LeetCode/tree/master/0412-fizz-buzz) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adarshgupta404/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adarshgupta404/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adarshgupta404/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshgupta404/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta404/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -127,12 +130,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adarshgupta404/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/adarshgupta404/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarshgupta404/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/adarshgupta404/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/adarshgupta404/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/adarshgupta404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta404/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/adarshgupta404/LeetCode/tree/master/0792-binary-search) |
@@ -146,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarshgupta404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshgupta404/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adarshgupta404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgupta404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
