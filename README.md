@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/adarshgupta404/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/adarshgupta404/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adarshgupta404/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adarshgupta404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adarshgupta404/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshgupta404/LeetCode/tree/master/0283-move-zeroes) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adarshgupta404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshgupta404/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshgupta404/LeetCode/tree/master/0268-missing-number) |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshgupta404/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -194,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/adarshgupta404/LeetCode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/adarshgupta404/LeetCode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/adarshgupta404/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
