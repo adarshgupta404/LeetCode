@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/adarshgupta404/LeetCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Math
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/adarshgupta404/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/adarshgupta404/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3516-design-neighbor-sum-service](https://github.com/adarshgupta404/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/adarshgupta404/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3582-find-indices-of-stable-mountains](https://github.com/adarshgupta404/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
