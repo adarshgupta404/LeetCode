@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/adarshgupta404/LeetCode/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/adarshgupta404/LeetCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/adarshgupta404/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1646-kth-missing-positive-number](https://github.com/adarshgupta404/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshgupta404/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/adarshgupta404/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/adarshgupta404/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/adarshgupta404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta404/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/adarshgupta404/LeetCode/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/adarshgupta404/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Recursion
 |  |
 | ------- |
